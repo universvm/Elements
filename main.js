@@ -18,7 +18,7 @@ function createWindow()
   {
     width: 800,
     height: 545,
-    backgroundColor: '#fff'
+    backgroundColor: '#2b303b'
   });
 
   browserWindow.loadURL(path.join('file://', __dirname, 'index.html'));
